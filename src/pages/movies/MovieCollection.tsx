@@ -61,7 +61,7 @@ const MovieCollectionPage = ({
             </p>
 
             <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
-              My Movie Collection
+              Doomsday Ready Movie Collection
             </h1>
 
             <p className="mt-2 text-sm text-slate-400 sm:text-base">
